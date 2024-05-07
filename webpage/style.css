@@ -1,0 +1,160 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(./back.png)no-repeat center fixed;
+    
+    
+    font-family: sans-serif;
+}
+
+.box{
+
+ 
+   
+    color: red;
+    top: 58%;
+    right: 10%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    box-sizing: border-box;
+    padding: 70px 30px;
+}
+
+
+
+.user{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: -50px;
+    left: calc(50% - 50px);
+}
+
+h1{
+    margin: 0;
+    padding: 0 0 20px;
+    text-align: center;
+    font-size: 22px;
+    color: black;
+}
+
+p{
+    color: #0e0d0d;
+    margin: 0;
+    padding: 5px;
+    font-weight: bold;
+}
+
+input{
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+ input[type="text"], input[type="password"] ,input[type="email"]
+{
+    border: #eeb109;
+    border-bottom: 1px solid #fff;
+    background: transparent;
+    outline:invert;
+    height: 40px;
+    color: #0a0a0a;
+    font-size: 16px;
+}
+
+input[type="submit"]
+{
+    border: none;
+    outline: none;
+    height: 40px;
+    background: #070707;
+    color: #fff;
+    font-size: 18px;
+    border-radius: 20px;
+
+}
+
+
+input[type="submit"]:hover
+{
+    cursor: pointer;
+    background: #0097a7;
+}
+
+a
+{
+    text-decoration: none;
+    font-size: 20px;
+    line-height: 20px;
+    color: #069818;
+}
+
+
+a:hover
+{
+    color: red;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
